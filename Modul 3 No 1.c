@@ -15,7 +15,7 @@ int main(){
 	char pilihan, enterCheck;
     system("cls");
     printf("\n\t\t\t\t------------PRAKTIKUM ALPROG MODUL 3------------");
-    printf("\n\t\t\t\t-------------------KELOMPOK 2-------------------");
+    printf("\n\t\t\t\t-------------------KELOMPOK 26------------------");
     printf("\n\t\t\t\t\t================================");
     printf("\n\t\t\t\t\tProgram 3.1 Sorting & Searching ");
     printf("\n\t\t\t\t\t================================");
